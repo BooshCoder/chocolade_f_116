@@ -1,0 +1,15 @@
+body {
+  font-family: "Montserrat" sans-serif;
+}
+.header {
+  background-color: blueviolet;
+}
+.section-hero {
+  background-color: aquamarine;
+}
+.section-features {
+  background-color: blue;
+}
+.section-taste {
+  background-color: chocolate;
+}
